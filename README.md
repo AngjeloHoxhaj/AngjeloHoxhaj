@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/angjelo-hoxhaj" target="_blank">
+  <a href="https://www.linkedin.com/in/angjelo-hoxhaj-49b95a340?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvbzRhhhZRCaMzsfaRkcv8A%3D%3D" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/angjelo.h" target="_blank">
