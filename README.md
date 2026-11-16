@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Angjelo Hoxhaj</h1>
-<h3 align="center">I'm a CS student from Albania currently studying in Greece</h3>
+<h1 align="center">Hi, I'm Angjelo</h1>
+<h3 align="center">a CS student currently studying in Greece</h3>
 
 - I’m currently learning **the basics of ML/NN**.
 - How to reach me: **angjelohoxhaj2022@gmail.com**
